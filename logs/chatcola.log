@@ -464,3 +464,78 @@
 └ @ Main /home/jair/WORK/IVA/Server/Chatcola/scriptRunChatcolaIVA.jl:82
 ┌ Info: (2020-07-07T19:29:57.361, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside,\n chat with me using @iva in your utterences","_id" => "5f04bf21e89fa62291fa05ca","slug" => "5a926c63-0b3e-40d1-bed7-0195ce56a5ab"),"type" => "message"))
 └ @ Main /home/jair/WORK/IVA/Server/Chatcola/scriptRunChatcolaIVA.jl:82
+┌ Info: (2020-07-08T19:44:01.988, "start liveServer")
+└ @ Main In[3]:7
+┌ Info: (2020-07-08T20:15:05.205, "start liveServer")
+└ @ Main In[11]:8
+┌ Info: (2020-07-08T20:50:34.112, "start liveServer")
+└ @ Main In[16]:8
+┌ Info: (2020-07-08T21:12:05.933, "start liveServer")
+└ @ Main In[25]:8
+┌ Info: (2020-07-08T23:11:59.532, "start liveServer")
+└ @ Main In[1]:8
+┌ Info: (2020-07-08T23:18:30.68, "start liveServer")
+└ @ Main In[11]:8
+┌ Info: (2020-07-08T23:20:38.794, "start liveServer")
+└ @ Main In[24]:8
+┌ Info: (2020-07-08T23:23:33.5, "start liveServer")
+└ @ Main In[38]:6
+┌ Error: Could not obtain credentials
+└ @ Main In[38]:19
+┌ Info: (2020-07-08T23:24:28.295, "start liveServer")
+└ @ Main In[40]:6
+┌ Info: could successfully get credentials
+└ @ Main In[40]:15
+┌ Info: (2020-07-08T23:24:44.6, "start liveServer")
+└ @ Main In[42]:6
+┌ Info: could successfully get credentials
+└ @ Main In[54]:6
+n /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: (2020-07-08T23:31:19.88, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: could successfully get credentials
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:35
+┌ Info: (2020-07-08T23:33:59.342, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: could successfully get credentials
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:35
+┌ Info: (2020-07-08T23:37:09.217, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: could successfully get credentials
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:35
+┌ Info: (2020-07-08T23:40:12.675, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: could successfully get credentials
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:35
+┌ Info: (2020-07-08T23:43:07.796, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: (2020-07-08T23:51:35.106, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:26
+┌ Info: (2020-07-08T23:51:46.677, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:61
+┌ Info: (2020-07-08T23:51:46.679, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:69
+┌ Info: (2020-07-08T23:51:55.796, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f064e07e89fa62291fa07af","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:100
+┌ Info: (2020-07-08T23:52:56.245, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f064e44e89fa62291fa07b1","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:100
+┌ Info: (2020-07-08T23:53:33.96, "***PING***")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:136
+┌ Info: (2020-07-08T23:53:42.522, "***PING***")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:136
+┌ Info: (2020-07-08T23:53:44.527, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "hello @iva","_id" => "5f064e76e89fa62291fa07b6","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:100
+┌ Info: (2020-07-08T23:54:04.298, "ping", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "hello @iva","_id" => "5f064e76e89fa62291fa07b6","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:124
+┌ Info: (2020-07-08T23:54:04.314, "***PING***")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:136
+┌ Info: (2020-07-08T23:54:10.324, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f064e78e89fa62291fa07b8","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:100
+┌ Info: (2020-07-08T23:54:10.325, "***PING***")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:136
+┌ Info: (2020-07-08T23:54:12.33, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: hello welcome on chatcola, i am iva, what can i do for you!??","_id" => "5f064e87e89fa62291fa07ba","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:100
+┌ Info: (2020-07-08T23:54:16.338, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: pong!","_id" => "5f064e8ce89fa62291fa07bc","slug" => "ec288245-fa3f-41cb-8f4f-a5b82364cc0e"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:100
+┌ Info: (2020-07-08T23:54:16.338, "***PING***")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunChatcolaIVA.jl:136

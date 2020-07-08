@@ -29,21 +29,28 @@ logger = io |> SimpleLogger |> global_logger
 dataCreds = JSON.parsefile("resources/creds.json")
 
 if slug != dataCreds["slug"]
+    println(slug)
     dataCreds = try 
-    
+            
             getChatcolaCredentials(slug)
-            @info "could successfully get credentials"; flush(io)
+            # @info "could successfully get credentials"; flush(io)
     
                 catch 
     
             @error "Could not obtain credentials"; flush(io)
             exit(code=1)
+        
                 end
-    
+      
+    println(dataCreds)
+    dataCreds["slug"] = slug
     open("resources/creds.json", "w") do f
         JSON.print(f, dataCreds)
     end
+    
 end
+
+
 
 
 chatBasis = JSON.parsefile("resources/chatBasis.json")
