@@ -130,7 +130,7 @@ HTTP.WebSockets.open(wssURL) do ws
         
         t2 = now()
         deltaT = ((t2 - t1).value / 1000)
-        if deltaT >= 5
+        if deltaT >= 1
             write(ws, JSON.json(chatBasis["ping"]))
             # println("PING****")
             @info now(), "***PING***"; flush(io)
