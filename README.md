@@ -18,4 +18,4 @@ A beautiful multidimensional conversational/logic agent based on high dimensiona
 3. build: 
 	> sudo docker build -t yourDockerName .
 4. run:
-	> sudo docker run -ti yourDockerName /scriptRunChatcolaIVA.jl fdeda4f0-8a37-48bd-805e-26c476489eeb
+	> sudo docker run -ti yourDockerName /scriptRunCHATCOLAandIVA.jl fdeda4f0-8a37-48bd-805e-26c476489eeb

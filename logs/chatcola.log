@@ -1,1 +1,129 @@
 
+┌ Info: (2020-07-11T00:10:58.183, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:26
+┌ Info: (2020-07-11T00:11:02.393, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:59
+┌ Info: (2020-07-11T00:11:02.397, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:71
+┌ Info: (2020-07-11T00:11:17.589, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f08f593e89fa62291fa08cb","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:11:19.839, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => ";;;;","_id" => "5f08f595e89fa62291fa08cd","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:11:23.992, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f598e89fa62291fa08cf","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:11:42.042, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva","_id" => "5f08f5a7e89fa62291fa08d1","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:11:50.064, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f5aee89fa62291fa08d3","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:13:50.568, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:26
+┌ Info: (2020-07-11T00:13:54.971, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:59
+┌ Info: (2020-07-11T00:13:54.976, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:71
+┌ Info: (2020-07-11T00:14:10.299, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f08f63fe89fa62291fa08d7","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:14:32.601, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "gggg","_id" => "5f08f654e89fa62291fa08d9","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:14:39.791, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f658e89fa62291fa08db","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:14:51.824, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva","_id" => "5f08f662e89fa62291fa08dd","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:14:56.161, "iva:", "{\"utterance\":\"hello welcome on chatcola, i am iva, what can i do for you!??\"}")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:83
+┌ Info: (2020-07-11T00:14:57.053, "iva starting::")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:188
+┌ Info: (2020-07-11T00:15:07.078, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f66be89fa62291fa08df","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:15:09.084, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: hello welcome on chatcola, i am iva, what can i do for you!??","_id" => "5f08f671e89fa62291fa08e1","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:15:35.145, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva ping","_id" => "5f08f688e89fa62291fa08e3","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T00:17:26.791, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:26
+┌ Info: (2020-07-11T00:17:31.097, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:59
+┌ Info: (2020-07-11T00:17:31.101, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:71
+┌ Info: (2020-07-11T00:17:46.689, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f08f718e89fa62291fa08e7","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:18:21.057, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "rferge","_id" => "5f08f738e89fa62291fa08e9","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:18:29.222, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f73de89fa62291fa08eb","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:18:36.241, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva","_id" => "5f08f744e89fa62291fa08ed","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:18:40.501, "iva:", "{\"utterance\":\"hello welcome on chatcola, i am iva, what can i do for you!??\"}")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:83
+┌ Info: (2020-07-11T00:24:17.529, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:26
+┌ Info: (2020-07-11T00:24:21.655, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:59
+┌ Info: (2020-07-11T00:24:21.659, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:71
+┌ Info: (2020-07-11T00:24:37.231, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f08f8b2e89fa62291fa08f3","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:24:43.488, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "',m;l,l;/","_id" => "5f08f8b7e89fa62291fa08f5","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:24:49.675, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f8bbe89fa62291fa08f7","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:25:06.723, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva","_id" => "5f08f8cae89fa62291fa08f9","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:25:11.04, "iva:", "{\"utterance\":\"hello welcome on chatcola, i am iva, what can i do for you!??\"}")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:83
+┌ Info: (2020-07-11T00:25:12.013, "iva starting::")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:189
+┌ Info: (2020-07-11T00:25:21.036, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f08f8d2e89fa62291fa08fb","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:25:23.043, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: hello welcome on chatcola, i am iva, what can i do for you!??","_id" => "5f08f8d8e89fa62291fa08fd","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T00:25:45.097, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva ping","_id" => "5f08f8ebe89fa62291fa08ff","slug" => "7eadcddf-9c33-4640-8d9d-49a993524ad0"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:158
+┌ Info: (2020-07-11T13:38:48.429, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:26
+┌ Info: (2020-07-11T13:39:00.565, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:59
+┌ Info: (2020-07-11T13:39:00.568, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:71
+┌ Info: (2020-07-11T13:39:10.828, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f09b2ebe89fa62291fa090a","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T13:39:28.671, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva","_id" => "5f09b2fee89fa62291fa090c","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T13:39:33.568, "iva:", "{\"utterance\":\"hello welcome on chatcola, i am iva, what can i do for you!??\"}")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:83
+┌ Info: (2020-07-11T13:39:34.077, "iva starting::")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:188
+┌ Info: (2020-07-11T13:39:36.083, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f09b300e89fa62291fa090e","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T13:39:38.091, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: hello welcome on chatcola, i am iva, what can i do for you!??","_id" => "5f09b306e89fa62291fa0910","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T13:39:48.118, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva ping","_id" => "5f09b312e89fa62291fa0912","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:157
+┌ Info: (2020-07-11T13:41:54.495, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:26
+┌ Info: (2020-07-11T13:41:58.604, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:59
+┌ Info: (2020-07-11T13:41:58.608, "start liveServer")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:71
+┌ Info: (2020-07-11T13:42:13.511, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "IVA inside, chat with me using @iva in your utterences","_id" => "5f09b3a3e89fa62291fa0916","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
+┌ Info: (2020-07-11T13:42:31.901, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva","_id" => "5f09b3b6e89fa62291fa0918","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
+┌ Info: (2020-07-11T13:42:36.621, "iva:", "{\"utterance\":\"hello welcome on chatcola, i am iva, what can i do for you!??\"}")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:83
+┌ Info: (2020-07-11T13:42:37.307, "iva starting::")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:190
+┌ Info: (2020-07-11T13:42:38.309, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f09b3b8e89fa62291fa091a","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
+┌ Info: (2020-07-11T13:42:41.319, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: hello welcome on chatcola, i am iva, what can i do for you!??","_id" => "5f09b3bde89fa62291fa091c","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
+┌ Info: (2020-07-11T13:42:45.33, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@jair","content" => "@iva ping","_id" => "5f09b3c3e89fa62291fa091e","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
+┌ Info: (2020-07-11T13:42:50.68, "iva:", "{\"utterance\":\"pong!\"}")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:83
+┌ Info: (2020-07-11T13:42:51.373, "to iva:: ", "ping")
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:199
+┌ Info: (2020-07-11T13:42:53.38, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "I just got a message from  @jair","_id" => "5f09b3c5e89fa62291fa0920","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
+┌ Info: (2020-07-11T13:42:55.386, "data", Dict{String,Any}("data" => Dict{String,Any}("author" => "@iva.0.0.1","content" => "LIVE BOT IVA:: pong!","_id" => "5f09b3cbe89fa62291fa0922","slug" => "b357e043-5c84-481b-995e-a5b461d807e4"),"type" => "message"))
+└ @ Main /home/jair/WORK/IVA/Server/chatcolaIva/scriptRunCHATCOLAandIVA.jl:159
